@@ -1,0 +1,6 @@
+Câu hỏi: Thời hiệu khởi kiện vụ vi phạm hợp đồng là bao lâu?
+
+🔧 Gọi tool: check_statute_of_limitations
+
+✅ Kết quả:
+Thời hiệu khởi kiện vụ vi phạm hợp đồng là 4 năm theo UCC § 2-725.
